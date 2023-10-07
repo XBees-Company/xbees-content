@@ -1,0 +1,63 @@
+
+# Configuration
+/wp-config.php
+# Log files
+*.log
+
+
+#folders
+/themes
+
+# htaccess
+/.htaccess
+
+# images files
+/uploads/**/*.jpg
+/uploads/**/*.JPEG
+/uploads/**/*.PNG
+/uploads/**/*.GIF
+/uploads/**/*.WebP
+/uploads/**/*.SVG
+/uploads/**/*.PDF
+/uploads/**/*.heic
+/uploads/**/*.heif
+
+
+# doc files
+/uploads**/*.txt
+/uploads**/*.docx 
+/uploads**/*.pdf 
+/uploads**/*.key 
+/uploads**/*.odt 
+/uploads**/*.ppt 
+/uploads**/*.pptx 
+/uploads**/*.pps 
+/uploads**/*.ppsx 
+/uploads**/*.xls 
+/uploads**/*.xlsx 
+
+# audio files
+
+/uploads**/*.m4a 
+/uploads**/*.mp3
+/uploads**/*.ogg
+/uploads**/*.wav
+
+
+#viedo files
+/uploads**/*.avi
+/uploads**/*.mpg
+/uploads**/*.mp4
+/uploads**/*.MPEG-4
+/uploads**/*.m4v 
+/uploads**/*.mov 
+/uploads**/*.ogv
+/uploads**/*.vtt 
+/uploads**/*.wmv 
+/uploads**/*.3gp 
+/uploads**/*.3g2 
+/uploads**/*.3GPP
+/uploads**/*.3GPP2
+
+
+ 

@@ -1,0 +1,1 @@
+.btn-hover-txt-switch-y .btn-txt:after{left:50%;transform:translate(-50%,150%)}.btn-hover-txt-switch-y:hover .btn-txt{transform:translateY(-250%)}.btn-hover-txt-switch-y:hover .btn-txt:after{transform:translate(-50%,200%)}

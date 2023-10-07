@@ -1,0 +1,1 @@
+.btn-hover-txt-switch .btn-txt{transition:opacity .65s,transform .85s;transition-timing-function:cubic-bezier(.15,.85,.31,1)}.btn-hover-txt-switch .btn-txt:after{content:attr(data-text);display:inline-block;position:absolute;white-space:nowrap;top:50%;opacity:0;transition:inherit}.btn-hover-txt-switch:hover .btn-txt:after{opacity:1}

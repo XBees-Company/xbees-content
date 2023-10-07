@@ -1,0 +1,18 @@
+{
+	"home_page_title": "Marketing Hub Homepage",
+	"blog_page_title": "Blog",
+	"menus": {
+		"primary": "Primary - All"
+	},
+	"templates": {
+		"header-template": "Marketing Hub Main Header",
+		"footer-template": "Marketing Hub Main Footer"
+	},
+	"content_plugins": {
+		"hub-core": "Hub Core",
+		"elementor": "Elementor",
+		"hub-elementor-addons": "Hub Elementor Addons",
+        "hub-portfolio": "Hub Portfolio",
+		"contact-form-7": "Contact Form 7"
+	}
+}
